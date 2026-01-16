@@ -1,0 +1,11 @@
+# While loops 
+# While - Enquanto
+# O looop será executado enquanto o número for menor que 5, a lógica é imprimir uma sequência de números até a sua condição:
+
+numero = 1
+
+while numero < 2:
+
+    print(numero)
+
+    numero += 1

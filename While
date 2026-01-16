@@ -1,0 +1,10 @@
+# While loops 
+# While - Enquanto
+
+numero = 1
+
+while numero < 2:
+
+    print(numero)
+
+    numero += 1
